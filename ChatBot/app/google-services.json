@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927228379717",
+    "project_id": "chatbot-72ac5",
+    "storage_bucket": "chatbot-72ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927228379717:android:93fcfc99d5ffa92adb592c",
+        "android_client_info": {
+          "package_name": "com.shrinathit.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927228379717-dbm2rm1adof5k45ku2me6mecs7affd5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSX9tOy2o-NeppiDcSiJsF2JWq429TW0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927228379717-dbm2rm1adof5k45ku2me6mecs7affd5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
